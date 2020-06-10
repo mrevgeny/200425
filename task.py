@@ -88,10 +88,10 @@
 # print(blackjack(8, 8, 11))
 
 #lambda
-def square(num):
-    result = num ** 2
-    return result
-print(square(3))
-
-square =lambda  num: num **2
-print(square(4))
+# def square(num):
+#     result = num ** 2
+#     return result
+# print(square(3))
+#
+# square =lambda  num: num **2
+# print(square(4))
